@@ -1,6 +1,6 @@
 # Kidney Failure Prediction for CKD Patients
 
-This project develops predictive models to identify Chronic Kidney Disease (CKD) patients at risk of progressing to kidney failure. The models employ machine learning techniques including Decision Trees, Random Forests, and Recurrent Neural Networks (RNNs) using patient datasets from Australia (AU) and Japan (JP).
+This project develops predictive models to identify Chronic Kidney Disease (CKD) patients at risk of progressing to kidney failure. The models employ machine learning techniques including Decision Trees, Random Forests, and Recurrent Neural Networks (RNNs) using patient datasets from Australia and Japan.
 
 ## Project Structure
 
