@@ -12,4 +12,4 @@ The project is organized into two main folders:
 
 ## Contact
 
-For questions and feedback, including on the dataset, please reach out to the repository maintainer at roysu@deakin.edu.au
+For questions and feedback, please reach out to roysu@deakin.edu.au
