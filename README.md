@@ -6,7 +6,7 @@ This project develops predictive models to identify Chronic Kidney Disease (CKD)
 
 The project is organized into two main folders:
 
-- `data_preprocessing/`: Contains scripts and notebooks for preprocessing the AU and JP patient datasets to prepare them for model training and validation. Outputs omitted for data privacy.
+- `data_preprocessing/`: Contains scripts and notebooks for preprocessing the AU and JP patient datasets to prepare them for model training and validation. Outputs have been omitted for data privacy.
 
 - `models/`: Includes the implementation of the Decision Tree, Random Forest, and RNN models, along with scripts for training, evaluation, and prediction.
 
